@@ -7,3 +7,7 @@ This repository contains original code by [your name/handle], which is shared fo
 - **AudioManager.cs**  
   Copyright (c) 2019 Kan Kikuchi  
   Licensed under the MIT License.
+
+- **FadeScreen.cs**  
+  Copyright (c) 2013 yamamura tatsuhiko  
+  Licensed under the MIT License.
