@@ -1,7 +1,7 @@
 # TroubleMakerLuckey
 Unity Project
 
-This repository contains original code by [your name/handle], which is shared for reference only and **not licensed for reuse**.
+This repository contains original code by voidblaze-shige, which is shared for reference only and **not licensed for reuse**.
 
 ## Third-party code
 - **AudioManager.cs**  
